@@ -1,6 +1,9 @@
 # Multi-Agent Game Tester POC
 
 - [Live Demo](https://drive.google.com/drive/folders/1zh3DzWGDTCEMx5Rx5vGraehUJV4oMbsN?usp=sharing)
+
+Skip video during Loading
+
 ## Overview
 This project is a Proof of Concept (POC) for an AI-powered **multi-agent game testing system** designed to automatically test web-based number/math puzzle games.
 
