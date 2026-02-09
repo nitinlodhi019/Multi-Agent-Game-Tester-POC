@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+langchain
+langchain-community
+pydantic
+playwright
+python-dotenv
+chromadb
+sentence-transformers

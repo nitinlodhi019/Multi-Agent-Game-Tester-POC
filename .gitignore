@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.env
+
+# Playwright
+ms-playwright/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+node_modules/
+
+# Runtime artifacts (do not commit)
+backend/artifacts/dom/
+backend/artifacts/logs/
+backend/artifacts/screenshots/
+backend/reports/report_*.json
+backend/rag/memory.json
