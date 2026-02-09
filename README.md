@@ -97,7 +97,6 @@ multi-agent-game-tester/
 │
 ├── requirements.txt
 ├── README.md
-└── demo_video.mp4
 ```
 
 ---
@@ -106,7 +105,7 @@ multi-agent-game-tester/
 
 ### 1. Clone Repository
 ```bash
-git clone <your-github-repo-url>
+git clone https://github.com/nitinlodhi019/Multi-Agent-Game-Tester-POC
 cd multi-agent-game-tester
 ```
 
